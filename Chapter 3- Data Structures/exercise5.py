@@ -1,15 +1,15 @@
-# Original guest list
-guest_list = ["Albert Einstein", "Oprah Winfrey", "Leonardo da Vinci"]
+x = 10
+y = 20
+z = x+y
+print(x+y)
 
-# Print the guest who can't make it
-guest_cant_make_it = "Leonardo da Vinci"
-print(f"{guest_cant_make_it} can't make it to the dinner.")
 
-# Replace the guest who can't make it with a new person
-new_guest = "Marie Curie"
-guest_list.remove(guest_cant_make_it)
-guest_list.append(new_guest)
-
-# Generate new invitation messages
-for guest in guest_list:
-    print(f"Dear {guest},\nYou are cordially invited to dinner at my place. It would be an honor to have you join us for an evening of great conversation and delicious food. Please let me know if you can make it.\n\nSincerely, [Your Name]\n")
+print('hello world 1')
+print('hello world 2')
+print('hello world 3')
+'''
+print('hello world 4')
+print('hello world 5')
+print('hello world 6')
+'''
+print('hello world 7')
