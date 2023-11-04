@@ -23,6 +23,8 @@ print('my name is', name )
 print('i live in' , country )
 print(f'my age is', age )
 '''
+
+'''
 name = 'irti'
 age = '16'
 country ='pakistan'
@@ -32,4 +34,20 @@ name = 'topper'
 age = '18'
 harami = 'infinite'
 print(f'my name is', name, 'my age is', age, 'i am so harami', harami)
+'''
+'''
+x = 20
+print(type (x))
 
+x = 20.10
+print(type (x))
+
+x = '20'
+print(type (x))
+
+x = 20 + 10j
+print(type (x))
+'''
+
+y = False
+print(type(y))
