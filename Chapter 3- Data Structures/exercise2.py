@@ -1,5 +1,5 @@
 # Create a list of friends' names
-names = ["Alice", "Bob", "Charlie", "David", "Eve"]
+names = ["irtaza", "abdu", "taha", "faseeh", "topper"]
 
 # Print personalized messages to each person
 for name in names:
