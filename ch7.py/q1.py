@@ -1,6 +1,5 @@
 def add_numbers(a, b):
     return a + b
-
 # Example usage:
 num1 = 5  # Set num1 to 5
 num2 = 8  # Set num2 to 8
